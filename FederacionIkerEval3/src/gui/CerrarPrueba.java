@@ -57,6 +57,8 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.JCheckBox;
 import javax.swing.SwingConstants;
 
+//examen 13
+
 public class CerrarPrueba extends JFrame {
 
 	private JPanel contentPane;
